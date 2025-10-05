@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="AvaloniaPersonalizado/App.axaml" value="AvaloniaPersonalizado/AvaloniaPersonalizado.csproj" />
+        <entry key="AvaloniaPersonalizado/Views/ConfiguracionView.axaml" value="AvaloniaPersonalizado/AvaloniaPersonalizado.csproj" />
+        <entry key="AvaloniaPersonalizado/Views/InicioView.axaml" value="AvaloniaPersonalizado/AvaloniaPersonalizado.csproj" />
+        <entry key="AvaloniaPersonalizado/Views/MainWindow.axaml" value="AvaloniaPersonalizado/AvaloniaPersonalizado.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
